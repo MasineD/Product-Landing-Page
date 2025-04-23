@@ -1,7 +1,7 @@
 # Product-Landing-Page
 Fourth project for Responsive Web Design certificate offered by freeCodeCamp  
 
-Welcome to my Product Landing Page project. For this project, I create a landing page for WeBuyCars company-a company that buys and sells cars in South Africa. I make use of HTML and CSS to create a simple and responsive landing page to showcase the services, products and features of WeBuyCars.
+Welcome to my Product Landing Page project. For this project, I create a landing page for PlusCars company-a company that buys and sells cars. I make use of HTML and CSS to create a simple and responsive landing page to showcase the services, products and features of WeBuyCars.
 
 # Project Overview
 This project is designed to:  
@@ -22,13 +22,22 @@ This project is designed to:
 ~***: For icons used in the design
 
 # How To Use
+1.Click on the GREEN <>Code button on Github
+2.Select "Download Zip"
+3. Download the source code to the file storage on your device 
+4.Navigate to the folder you stored the downloaded folder in
+5.Open the folder
+6.Double click the index.html file to open in a browser window
 
 # Folder Structure
+1. Product-Landing Page
 
 # Preview
+"NO PREVIEW AT THE MOMENT"
 
 # Contact Details
 ~Email:masinedonald@gmail.com  
 ~Tellphone: +27 647 266 704  
 ~GitHub:MasineD  
-~LinkedIn:  
+~LinkedIn: https://www.linkedin.com/in/donald-masine-17a430270/
+
